@@ -2,22 +2,14 @@
   <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width="600" height="300"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/william-cris-hod-73810b1b7/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedln-blue?style=for-the-badge&logo=linkedln&logoColor=white" alt="Linkedln Badge"/>
-  </a>
-  
-</div>
-
-
 ---
 
 <h1 align="center">Hi 👋, I'm JD</h1>
-<h3 align="center">A 1st year Computer Science student at Lyceum of the Philippines University - Manila</h3>
+<h3 align="center">A 1st-year Computer Science student at Lyceum of the Philippines University - Manila</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/jdfrutob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jdfrutob" height="30" width="40" /></a>
+<a href="https://fb.com/Binegasfor3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jdfrutob" height="30" width="40" /></a>
 <a href="https://instagram.com/jdfrutob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jdfrutob" height="30" width="40" /></a>
 </p>
 
