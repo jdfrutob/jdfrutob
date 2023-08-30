@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">Hi 👋, I'm JD</h1>
-<h3 align="center">A 1st-year Computer Science student at Lyceum of the Philippines University - Manila</h3>
+<h3 align="center">A 2nd-year Computer Science student at Lyceum of the Philippines University - Manila</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
